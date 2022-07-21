@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1611646592 source:d:\julien\documents\semestre 4\architecture-systèmes\compte_arg\main.c
+	<stdio.h>
+	<stdlib.h>
+
